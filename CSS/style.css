@@ -18,7 +18,7 @@ header img{
 }             
 
 h1{
-    font-size: 64px;      /*---------> utilizando a conversão de pt(points) para px (pixels).*/
+    font-size: 80px;      /*---------> utilizando a conversão de pt(points) para px (pixels).*/
     font-family: "unbounded", sans-serif;
     font-weight: bold;     /* ------------> Peso da fonte (700 ou bold)*/
     font-display: swap;    /*Caso a fonte principal demore a ser renderizada por algum motivo, ocorre o fall back (sistema apresenta a fonte secundária) até normalizar.*/
